@@ -1,5 +1,10 @@
 body {
         background-color: #000000;
         color: #FDCFD6;
-        font-family: "Courier New"; 
+        font-family: Arial;
+}
+
+a {
+        text-decoration: underline;
+        color: #FDCFD6;
 }
