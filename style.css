@@ -5,6 +5,27 @@ body {
 }
 
 a {
-        text-decoration: underline;
         color: #FDCFD6;
+}
+
+h1 {
+        text-align: center;
+}
+
+img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+.section {
+        text-decoration: underline;
+}
+
+.org {
+        font-weight: bold;
+}
+
+.position {
+        font-style: italic;
 }
